@@ -1,0 +1,33 @@
+body{
+    background-image:none;
+    background-color:black;
+
+}
+.container{
+    background-image:url('stars.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-image:cover;
+    width:1000000px;
+}
+.btn-primary{
+   width:auto;
+   padding-left:50px;
+   padding-right:50px;
+
+ }
+
+ .container h1{
+     border-bottom: 1px solid white;
+ }
+
+#name.form-control{
+    width:75%;
+
+}
+
+#photo.form-control{
+    width:75%;
+
+}
